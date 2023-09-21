@@ -1,16 +1,13 @@
-# Machine Learning with Iris Dataset
-![Python](https://img.shields.io/badge/python-2.x-orange.svg)
-![Type](https://img.shields.io/badge/Machine-Learning-red.svg) ![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
-![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.svg)
+# Stock-Market-Prediction-and-Forecasting-Using-Stacked-LSTM
+ Stock market prediction of a stock using stacked LSTM, Keras and Tensorflow
+ 
+#### Dataset
+Yahoo Finance - Stock of Reliance Industries Limited NSE: RELIANCE: https://finance.yahoo.com/quote/RELIANCE.NS/history?period1=1433635200&period2=1591488000&interval=1d&filter=history&frequency=1d
 
-## Introduction
-The Iris dataset is a classic dataset for classification, machine learning, and data visualization.
+#### Prediction
+![Screen Shot 2020-06-08 at 12 59 08 AM](https://user-images.githubusercontent.com/15246084/83978171-4da79800-a923-11ea-9a88-8971ca0cbc02.png)
 
-The dataset contains: 3 classes (different Iris species) with 50 samples each, and then four numeric properties about those classes: Sepal Length, Sepal Width, Petal Length, and Petal Width.
+Amazing Tutorial Reference from Krish Naik: https://www.youtube.com/watch?v=H6du_pfuznE
 
-One species, Iris Setosa, is "linearly separable" from the other two. This means that we can draw a line (or a hyperplane in higher-dimensional spaces) between Iris Setosa samples and samples corresponding to the other two species.
-
-Predicted Attribute: Different Species of Iris plant.
-
-## Purpose
-The purpose of this project was to gain introductory exposure to Machine Learning Classification concepts along with data visualization. The project makes heavy use of Scikit-Learn, Pandas and Data Visualization Libraries.
+### Note
+This project and all of its content are strictly for educational purposes and not a financial advice, and it is not advised to put your money based on its predictions.
